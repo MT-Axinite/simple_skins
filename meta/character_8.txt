@@ -1,0 +1,4 @@
+name = "Bonhomme de Pain d'épice",
+author = "MasaoMoon",
+description = "Bonhomme de Pain d'épice",
+comment = "CC-BY-SA-3.0"

@@ -1,0 +1,4 @@
+name = "Skel",
+author = "Mekatronix",
+description = "Skeletal warrior",
+comment = "CC-BY-SA-3.0"

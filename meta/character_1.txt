@@ -1,0 +1,4 @@
+name = "Grégoire",
+author = "Sporax",
+description = "Description 1",
+comment = "Comment 1"

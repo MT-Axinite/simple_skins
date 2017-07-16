@@ -1,0 +1,4 @@
+name = "Bonhomme de neige",
+author = "MasaoMoon",
+description = "Bonhomme de neige",
+comment = "CC-BY-SA-3.0"

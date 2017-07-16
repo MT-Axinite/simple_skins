@@ -1,0 +1,4 @@
+name = "skin minecraft repris",
+author = "Sporax",
+description = "copy, right?",
+comment = "pas certain que ce soit legal celui la..."

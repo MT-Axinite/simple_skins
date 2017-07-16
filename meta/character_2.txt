@@ -1,0 +1,4 @@
+name = "Chloé",
+author = "Sporax",
+description = "A birdal girl!",
+comment = "Comment 2"
